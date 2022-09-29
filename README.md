@@ -11,12 +11,10 @@
 ### index.js
 
 ```js
-
 new AutoUploadPlugin({
   host: 'your remote host',
   username: 'your remote username',
   password: 'your remote password',
   remoteDirectory: 'your remote directory',
 }),
-
 ```
